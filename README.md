@@ -9,3 +9,4 @@ This a dbms project that can be used to manage a mobile service center database.
 5. If required install the connectivity driver to run the program.
 
 6. Make any changes you require :P
+7. Build and run!
