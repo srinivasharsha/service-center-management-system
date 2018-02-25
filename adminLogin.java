@@ -5,10 +5,6 @@
  */
 package msc;
 
-/**
- *
- * @author OSL
- */
 public  class adminLogin extends javax.swing.JFrame {
 
     /**
