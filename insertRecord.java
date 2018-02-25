@@ -5,10 +5,7 @@
  */
 package msc;
 
-/**
- *
- * @author OSL
- */
+
 public class insertRecord extends javax.swing.JFrame {
 
     /**
