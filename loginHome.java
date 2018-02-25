@@ -5,10 +5,7 @@
  */
 package msc;
 
-/**
- *
- * @author OSL
- */
+
 public class loginHome extends javax.swing.JFrame {
 
     /**
