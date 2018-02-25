@@ -5,10 +5,7 @@
  */
 package msc;
 
-/**
- *
- * @author OSL
- */
+
 public class adminInsert extends javax.swing.JFrame {
 
     /**
